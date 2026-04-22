@@ -10,7 +10,7 @@
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-*I build things end-to-end — from the first commit to the production deploy.*
+*I build things end-to-end , from the first commit to the production deploy.*
 *Client-facing products. SaaS platforms. Mobile apps. All of it.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharandeep--singh/)
@@ -22,7 +22,7 @@
 
 ## `$ whoami`
 
-I'm a full-stack developer and AI enthusiast based out of **Jammu, India** — building complete products, not just fragments. I take ideas from wireframe to deployed app, crafting clean architectures, thoughtful UIs, and solid backends that actually scale.
+I'm a full-stack developer and AI enthusiast based out of **Jammu, India**, building complete products, not just fragments. I take ideas from wireframe to deployed app, crafting clean architectures, thoughtful UIs, and solid backends that actually scale.
 
 I specialize in **Next.js + Supabase** stacks, **React Native / Expo** mobile apps, **Python + Machine Learning** research and turning client visions into professional deliverables backed by proper Statements of Work.
 
@@ -81,7 +81,7 @@ When I'm not pushing code, I'm getting lost in story-rich games, lifting dumbbel
 ### 🏠 Seasonal Properties *(Client)*
 **`Next.js · Supabase · Vercel · Custom SMTP · Google Workspace`**
 
-A full-featured **rental booking platform** serving the global market (`seasonalproperties.com`). End-to-end build — everything from Supabase SSR auth, Edge middleware, and custom admin flows to branded transactional emails via Resend, DNS configuration, and production deployment on Vercel. A project that touches every layer of the stack.
+A full-featured **rental booking platform** serving the global market (`seasonalproperties.com`). End-to-end build: everything from Supabase SSR auth, Edge middleware, and custom admin flows to branded transactional emails via Resend, DNS configuration, and production deployment on Vercel. A project that touches every layer of the stack.
 
 > Tackled: Edge runtime incompatibility with `axios`, Supabase server client middleware conflicts, Google Workspace MX record setup, and a custom admin password reset flow via Next.js API routes.
 
@@ -90,14 +90,14 @@ A full-featured **rental booking platform** serving the global market (`seasonal
 ### 🧢 Turbn *(Personal)*
 **`React Native / Expo · TypeScript · Supabase`**
 
-A niche styling app for turban-wearers — built from lived experience. Helps users explore styles, colors, and coordinations. A personal project that solves a real, underserved need in a community that rarely gets represented in fashion tech. (https://turbn.vercel.app/)
+A niche styling app for turban-wearers , built from lived experience. Helps users explore styles, colors, and coordinations. A personal project that solves a real, underserved need in a community that rarely gets represented in fashion tech. (https://turbn.vercel.app/)
 
 ---
 
 ### 🌿 Zerene *(Mental Wellness Platform)*
 **`Next.js · Supabase · LLM Integration`**
 
-An AI-powered mental wellness platform with **LLM-powered journaling** at its core. Designed to be empathetic, private, and thoughtfully built — not just another productivity app slapped with an AI badge. (https://zerene-sooty.vercel.app)
+An AI-powered mental wellness platform with **LLM-powered journaling** at its core. Designed to be empathetic, private, and thoughtfully built , not just another productivity app slapped with an AI badge. (https://zerene-sooty.vercel.app)
 
 ---
 
@@ -106,18 +106,18 @@ An AI-powered mental wellness platform with **LLM-powered journaling** at its co
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SherrySingh03/AI-Art-Generator)
 
-A desktop app that turns natural language into AI-generated art using **Stable Diffusion** via HuggingFace. Built with a Tkinter GUI — type a prompt, get an image. Clean, self-contained, no fuss.
+A desktop app that turns natural language into AI-generated art using **Stable Diffusion** via HuggingFace. Built with a Tkinter GUI , type a prompt, get an image. Clean, self-contained, no fuss.
 
 > *"An astronaut chilling out on the beach."* → [🖼️ Output](https://github.com/SherrySingh03/AI-Art-Generator)
 
 ---
 
-### 🔓 HackTheBox — Writeups & Notes
+### 🔓 HackTheBox , Writeups & Notes
 **`Kali Linux · Ethical Hacking · Penetration Testing`**
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SherrySingh03/HACK-THE-BOX)
 
-Documented walkthroughs and notes from **HackTheBox** machines — ethical hacking, vulnerability exploitation, and privilege escalation. Notes written to actually be useful, not just to archive flags.
+Documented walkthroughs and notes from **HackTheBox** machines , ethical hacking, vulnerability exploitation, and privilege escalation. Notes written to actually be useful, not just to archive flags.
 
 > *"Note-making helps you go a long way in this ethical hacking stuff."*
 
@@ -125,7 +125,7 @@ Documented walkthroughs and notes from **HackTheBox** machines — ethical hacki
 
 ## `$ cat ./consulting`
 
-I take on **independent client engagements** — from early-stage MVPs to full redesigns of existing products. If you're a startup, agency, or founder who needs a developer who thinks like a product person, let's talk.
+I take on **independent client engagements** , from early-stage MVPs to full redesigns of existing products. If you're a startup, agency, or founder who needs a developer who thinks like a product person, let's talk.
 
 What I bring to the table:
 - Full-stack builds, not just frontend or backend fragments
@@ -139,9 +139,9 @@ What I bring to the table:
 
 ```
 f3a92b1  launched Seasonal Properties 
-a81d3f0  shipped Zerene — LLM journaling platform
-9f20d11  built Turbn — styling app for turban wearers
-2c7f041  published AI Art Generator — Stable Diffusion + Tkinter
+a81d3f0  shipped Zerene: LLM journaling platform
+9f20d11  built Turbn: styling app for turban wearers
+2c7f041  published AI Art Generator , Stable Diffusion + Tkinter
 1b9a380  exploited my first HackTheBox machine. wrote it all down.
 ```
 
